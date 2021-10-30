@@ -1,0 +1,50 @@
+li a.nav-link{
+	list-style-type: none;
+	list-style-position: none;
+	font-size: 15px;
+	text-align: right;
+	color: white;
+
+}
+body{
+	background-image: url(https://images.unsplash.com/photo-1602345397613-0934a8812d23?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTl8fHdlYiUyMGRldmVsb3BtZW50fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+li a.nav-link:hover{
+	color: pink;
+	text-decoration: underline;
+	text-decoration-style: solid;
+
+}
+#offcanvasNavbarLabel{
+	color: black;
+
+}
+#offcanvas-body{
+	background-image: url(https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+.navbar-brand{
+	color: white;
+	font-style: italic;
+    font-size: 40px;
+}
+.offcanvas-body{
+	background-image: url(https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+.btn-close text-reset{
+	color: black;
+}
+.navbar-toggler-icon{
+	color: white;
+	text-align: left;
+	font-size:20px ;
+	height: 30px;
+	width: 50px;
+}

@@ -1,0 +1,29 @@
+body{
+	background-image: url(https://images.unsplash.com/photo-1607799131608-9a22dd60e25e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTd8fHdlYiUyMGRldmVsb3BtZW50fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h3{
+	color: white;
+	text-align: center;
+}
+h1{
+	text-align: center;
+	color: white;
+}
+.a{
+	margin: 100px 200px;
+	font-size: 55px;
+}
+ul{
+	font-size: 30px;
+	text-align: center;
+	color: white;
+	list-style-type: none;
+}
+li a{
+	color: white;
+}
+li a:hover{
+	color: black;
+}
